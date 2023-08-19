@@ -1,6 +1,6 @@
 # the_greenery
 
-A new Flutter project.
+E-Commerce for plant in your area
 
 ## Getting Started
 
